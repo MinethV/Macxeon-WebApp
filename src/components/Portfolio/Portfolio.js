@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Portfolio.css'; // Import the CSS file
-import ZentroMedia from '../../images/ZENTROMEDIA WEBSITE.png';
+import ZentroMedia from '../../images/zentromedia.png';
 import ZentroMediapopupone from '../../images/zentroM.png';
-import Thundermac from '../../images/thundermacwebss.png';
-import LiyontaTea from '../../images/LIYONTA TEA WEBSITE.png';
-import LEOClubUI from '../../images/leoclubUI.png';
+import Thundermac from '../../images/thundermac web.png';
+import LiyontaTea from '../../images/liyonta tea.png';
+import LEOClubUI from '../../images/leoclubiit.png';
 import wavepattern from '../../images/wave-haikei (1).png';
 
 const Portfolio = () => {
